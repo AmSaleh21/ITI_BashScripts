@@ -8,5 +8,5 @@ NAME=$2
 TOTAL=$3
 PRICE=$4
 FK=$5
-printf("INSERT INTO %s.%s VALUES("$1",\""$2"\","$3","$4","$5");"),DATABASE,T2
+printf("INSERT INTO %s.%s VALUES("ID",\""NAME"\","TOTAL","PRICE","FK");"),DATABASE,T2
 }
