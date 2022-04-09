@@ -1,0 +1,5 @@
+1:milk:2:10:1
+2:cheese:1:15:2
+3:Sausages:5:15:3
+4:Chips:10:5:4
+5:Fresh Tuna:2:20:5

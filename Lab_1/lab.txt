@@ -1,0 +1,10 @@
+1-
+	File: Invoices
+		inv_id,inv_date,cust_name,inv_total
+	File: Invoices_details
+		Seq,inv_id,item_name,item_quantity,item_unit_price
+
+
+Write a shell script accepts 2 parameters, 
+the invoice file name, and invoice details file name.parses the 2 files, 
+and insert them into mysql database
